@@ -35,6 +35,7 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
 ### Reinforcement learning - exploration
 
 - https://github.com/openai/random-network-distillation
+- https://github.com/jcwleo/random-network-distillation-pytorch
 
 
 ### Deep Q-Learning
