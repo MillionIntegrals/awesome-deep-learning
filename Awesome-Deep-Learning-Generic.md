@@ -1,5 +1,18 @@
 # Awesome: Deep learning generic
 
+### Transfer learning
+
+- (May 2018) **Exploring the Limits of Weakly Supervised Pretraining**
+  Dhruv Mahajan and
+               Ross B. Girshick and
+               Vignesh Ramanathan and
+               Kaiming He and
+               Manohar Paluri and
+               Yixuan Li and
+               Ashwin Bharambe and
+               Laurens van der Maaten
+  https://arxiv.org/abs/1805.00932
+
 ### Recurrent neural networks
 
 
