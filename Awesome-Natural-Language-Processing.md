@@ -10,7 +10,6 @@ Blogposts:
 - https://blog.openai.com/language-unsupervised/
 - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - https://jalammar.github.io/illustrated-transformer/
-- [Character Level NLP](https://www.lighttag.io/blog/character-level-NLP/)
 
 Publications:
 - (Sep 2014) **Neural Machine Translation by Jointly Learning to Align and Translate**

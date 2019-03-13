@@ -32,6 +32,13 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
 - https://github.com/lakehanne/gps
 
 
+### Reinforcement learning - meta learning
+
+- (Nov 2016) **RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning**
+  Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel
+  https://arxiv.org/abs/1611.02779
+
+
 ### Reinforcement learning - exploration
 
 - https://github.com/openai/random-network-distillation
