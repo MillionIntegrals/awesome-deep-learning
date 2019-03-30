@@ -1,14 +1,15 @@
 # Awesome: Reinforcement Learning
 
 
-### Reinforcement learning - generic collections
+### Reinforcement learning - generic projects
 
 - https://github.com/Khrylx/PyTorch-RL
+- https://github.com/ShangtongZhang/DeepRL
+- https://github.com/Svalorzen/AI-Toolbox
 - https://github.com/higgsfield/RL-Adventure-2
 - https://github.com/jingweiz/pytorch-rl
 - https://github.com/navneet-nmk/pytorch-rl
 - https://github.com/vitchyr/rlkit
-- https://github.com/ShangtongZhang/DeepRL
 
 Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition)
 - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
