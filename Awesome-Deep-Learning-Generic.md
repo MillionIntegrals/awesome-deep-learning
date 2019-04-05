@@ -13,7 +13,12 @@
                Laurens van der Maaten
   https://arxiv.org/abs/1805.00932
 
-### Recurrent neural networks
+
+### Gradient estimation
+
+- (Jun 2015)  **Gradient Estimation Using Stochastic Computation Graphs**
+  John Schulman, Nicolas Heess, Theophane Weber, Pieter Abbeel
+  https://arxiv.org/abs/1506.05254
 
 
 ### Learning rate and optimization
