@@ -1,6 +1,5 @@
 # Awesome: Unsupervised learning
 
-
 ### Autoencoders
 
 Publications:
@@ -8,7 +7,6 @@ Publications:
 - (Dec 2013) **Auto-Encoding Variational Bayes**
 	Diederik P Kingma, Max Welling
     https://arxiv.org/abs/1312.6114
-    
     
 - (Nov 2017) **Neural Discrete Representation Learning**
   Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu

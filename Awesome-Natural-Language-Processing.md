@@ -1,6 +1,5 @@
 # Awesome: Natural language processing
 
-
 ### Attention models and transformers
 
 Publications:
@@ -22,7 +21,6 @@ Publications:
 - (Jun 2018) **Relational recurrent neural networks**
   Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap
   https://arxiv.org/abs/1806.01822
-  
   
 ### Language models
 

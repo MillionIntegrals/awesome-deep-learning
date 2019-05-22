@@ -1,6 +1,5 @@
 # Awesome: Architecture 
 
-
 ### RNNs with Attention
 
 - (Sep 2014) **Neural Machine Translation by Jointly Learning to Align and Translate**

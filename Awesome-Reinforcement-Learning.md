@@ -1,6 +1,5 @@
 # Awesome: Reinforcement Learning
 
-
 ### Reinforcement learning - generic projects
 
 - https://github.com/Khrylx/PyTorch-RL
@@ -14,7 +13,6 @@
 Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition)
 - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
-
 ### Reinforcement learning environments
 
 - https://github.com/maximecb/gym-miniworld
@@ -22,16 +20,13 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
 - https://github.com/Kautenja/gym-super-mario-bros
 - https://github.com/openai/coinrun
 
-
 ### Alpha Zero
 
 - https://github.com/suragnair/alpha-zero-general
 
-
 ### Guided policy search
 
 - https://github.com/lakehanne/gps
-
 
 ### Reinforcement learning - theoretical foundations
 
@@ -39,19 +34,21 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
   Sergey Levine
   https://arxiv.org/pdf/1805.00909.pdf
 
-
 ### Reinforcement learning - meta learning
 
 - (Nov 2016) **RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning**
   Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel
   https://arxiv.org/abs/1611.02779
-
+  
+- (Jan 2019) **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex
+  and Diverse Learning Environments and Their Solutions**
+  Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley
+  https://arxiv.org/abs/1901.01753
 
 ### Reinforcement learning - exploration
 
 - https://github.com/openai/random-network-distillation
 - https://github.com/jcwleo/random-network-distillation-pytorch
-
 
 ### Deep Q-Learning
 
@@ -86,7 +83,6 @@ Publications:
 - (Oct 2017) **Rainbow: Combining Improvements in Deep Reinforcement Learning**
   Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver
   https://arxiv.org/abs/1710.02298
-  
   
 ### Policy gradient methods
 
