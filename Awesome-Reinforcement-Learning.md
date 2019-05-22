@@ -33,6 +33,13 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
 - https://github.com/lakehanne/gps
 
 
+### Reinforcement learning - theoretical foundations
+
+- (May 2018) **Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review**
+  Sergey Levine
+  https://arxiv.org/pdf/1805.00909.pdf
+
+
 ### Reinforcement learning - meta learning
 
 - (Nov 2016) **RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning**
@@ -67,6 +74,10 @@ Publications:
 - (Nov 2015) **Dueling Network Architectures for Deep Reinforcement Learning**
   Ziyu Wang and Nando de Freitas and Marc Lanctot
   http://arxiv.org/abs/1511.06581
+
+- (Jun 2017) **Noisy Networks for Exploration**
+  Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Ian Osband, Alex Graves, Vlad Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, Shane Legg
+  https://arxiv.org/abs/1706.10295
   
 - (Jul 2017) **A Distributional Perspective on Reinforcement Learning**
   Marc G. Bellemare, Will Dabney, Rémi Munos
