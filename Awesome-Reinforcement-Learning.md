@@ -9,9 +9,7 @@
 - https://github.com/jingweiz/pytorch-rl
 - https://github.com/navneet-nmk/pytorch-rl
 - https://github.com/vitchyr/rlkit
-
-Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition)
-- https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+- Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition) https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
 ### Reinforcement learning environments
 
@@ -20,39 +18,65 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
 - https://github.com/Kautenja/gym-super-mario-bros
 - https://github.com/openai/coinrun
 
-### Alpha Zero
+### Alpha (Go)(Zero)
+
+Code: 
 
 - https://github.com/suragnair/alpha-zero-general
 
+Publications
+
+- (Dec 2018) **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**
+    David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis
+    https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/
+
+
 ### Guided policy search
 
-- https://github.com/lakehanne/gps
+Code:
+
+-  Guided policy search implementation: https://github.com/lakehanne/gps
+
+Publications:
+
+- (Apr 2015) **End-to-End Training of Deep Visuomotor Policies**
+  Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel
+  https://arxiv.org/abs/1504.00702
+
 
 ### Reinforcement learning - theoretical foundations
 
 - (May 2018) **Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review**
-  Sergey Levine
-  https://arxiv.org/pdf/1805.00909.pdf
+    Sergey Levine
+    https://arxiv.org/pdf/1805.00909.pdf
 
 ### Reinforcement learning - meta learning
 
 - (Nov 2016) **RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning**
-  Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel
-  https://arxiv.org/abs/1611.02779
+    Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel
+    https://arxiv.org/abs/1611.02779
   
-- (Jan 2019) **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex
-  and Diverse Learning Environments and Their Solutions**
-  Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley
-  https://arxiv.org/abs/1901.01753
+- (Jan 2019) **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions**
+    Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley
+    https://arxiv.org/abs/1901.01753
 
 ### Reinforcement learning - exploration
+
+Code:
 
 - https://github.com/openai/random-network-distillation
 - https://github.com/jcwleo/random-network-distillation-pytorch
 
+Publications:
+
+- (Oct 2018) **Exploration by Random Network Distillation**
+    Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
+    https://arxiv.org/abs/1810.12894
+
+
 ### Deep Q-Learning
 
-Repositories:
+Code:
 - https://github.com/Kaixhin/Rainbow
 
 Publications:
@@ -86,7 +110,7 @@ Publications:
   
 ### Policy gradient methods
 
-Repositories:
+Code:
 - https://github.com/Kaixhin/ACER
 - https://github.com/dchetelat/acer
 - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
