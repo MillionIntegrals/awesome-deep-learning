@@ -1,5 +1,13 @@
 # Awesome: Natural language processing
 
+
+### Neural Machine Translation
+
+- (Sep 2014) **Sequence to Sequence Learning with Neural Networks**
+    Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+    https://arxiv.org/abs/1409.3215
+    
+
 ### Attention models and transformers
 
 Publications:
@@ -23,5 +31,7 @@ Publications:
   https://arxiv.org/abs/1806.01822
   
 ### Language models
+
+Blogposts:
 
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/

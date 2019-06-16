@@ -5,6 +5,18 @@
 - (Sep 2014) **Neural Machine Translation by Jointly Learning to Align and Translate**
   Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
   https://arxiv.org/abs/1409.0473
+  
+  
+### Regularizing RNNs
+
+- (Sep 2014) **Recurrent Neural Network Regularization**
+    Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals
+    https://arxiv.org/abs/1409.2329
+    
+- (Aug 2017) **Regularizing and Optimizing LSTM Language Models**
+    Stephen Merity, Nitish Shirish Keskar, Richard Socher
+    https://arxiv.org/abs/1708.02182
+
 
 ### Transformers
 
