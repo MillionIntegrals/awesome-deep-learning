@@ -4,6 +4,14 @@
 
 Publications:
 
+- (Jun 2006) **Reducing the Dimensionality of Data with Neural Networks**
+    G. E. Hinton and R. R. Salakhutdinov
+    https://www.cs.toronto.edu/~hinton/science.pdf
+    
+- (Jul 2008) **Extracting and Composing Robust Features with Denoising Autoencoders**
+    Extracting and Composing Robust Features with Denoising Autoencoders
+    http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
+
 - (Dec 2013) **Auto-Encoding Variational Bayes**
 	Diederik P Kingma, Max Welling
     https://arxiv.org/abs/1312.6114
