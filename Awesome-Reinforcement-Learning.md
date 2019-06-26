@@ -11,12 +11,14 @@
 - https://github.com/vitchyr/rlkit
 - Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition) https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
+
 ### Reinforcement learning environments
 
 - https://github.com/maximecb/gym-miniworld
 - https://github.com/maximecb/gym-minigrid
 - https://github.com/Kautenja/gym-super-mario-bros
 - https://github.com/openai/coinrun
+
 
 ### Alpha (Go)(Zero)
 
@@ -68,6 +70,14 @@ Code:
 - https://github.com/jcwleo/random-network-distillation-pytorch
 
 Publications:
+
+- (Jun 2016) **Unifying Count-Based Exploration and Intrinsic Motivation**
+    Marc G. Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, Remi Munos
+    https://arxiv.org/abs/1606.01868
+    
+- (Mar 2017) **Count-Based Exploration with Neural Density Models**
+    Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, Remi Munos
+    https://arxiv.org/abs/1703.01310
 
 - (Oct 2018) **Exploration by Random Network Distillation**
     Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
