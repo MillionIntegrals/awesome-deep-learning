@@ -20,19 +20,6 @@
 - https://github.com/openai/coinrun
 
 
-### Alpha (Go)(Zero)
-
-Code: 
-
-- https://github.com/suragnair/alpha-zero-general
-
-Publications
-
-- (Dec 2018) **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**
-    David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis
-    https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/
-
-
 ### Guided policy search
 
 Code:
@@ -46,21 +33,52 @@ Publications:
   https://arxiv.org/abs/1504.00702
 
 
+### Alpha (Go)(Zero)
+
+Code: 
+
+- https://github.com/suragnair/alpha-zero-general
+
+Publications
+
+- (Dec 2018) **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**
+    David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis
+    https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/
+    
+    
 ### Reinforcement learning - theoretical foundations
 
 - (May 2018) **Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review**
     Sergey Levine
     https://arxiv.org/pdf/1805.00909.pdf
+    
 
 ### Reinforcement learning - meta learning
 
 - (Nov 2016) **RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning**
     Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel
     https://arxiv.org/abs/1611.02779
+    
+- (Mar 2017) **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**
+    Chelsea Finn, Pieter Abbeel, Sergey Levine
+    https://arxiv.org/abs/1703.03400
+
+- (Jul 2017) **A Simple Neural Attentive Meta-Learner**
+    Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
+    https://arxiv.org/abs/1707.03141
+    
+- (Mar 2018) **Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning**
+    Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn
+    https://arxiv.org/abs/1803.11347
+    
+- (Jun 2018) **Unsupervised Meta-Learning for Reinforcement Learning**
+    Abhishek Gupta, Benjamin Eysenbach, Chelsea Finn, Sergey Levine
+    https://arxiv.org/abs/1806.04640
   
 - (Jan 2019) **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions**
     Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley
     https://arxiv.org/abs/1901.01753
+
 
 ### Reinforcement learning - exploration
 
@@ -118,6 +136,7 @@ Publications:
   Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver
   https://arxiv.org/abs/1710.02298
   
+
 ### Policy gradient methods
 
 Code:
