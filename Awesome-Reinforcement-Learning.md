@@ -1,17 +1,15 @@
 # Awesome: Reinforcement Learning
 
-
-### Reinforcement learning - generic collections
+### Reinforcement learning - generic projects
 
 - https://github.com/Khrylx/PyTorch-RL
+- https://github.com/ShangtongZhang/DeepRL
+- https://github.com/Svalorzen/AI-Toolbox
 - https://github.com/higgsfield/RL-Adventure-2
 - https://github.com/jingweiz/pytorch-rl
 - https://github.com/navneet-nmk/pytorch-rl
 - https://github.com/vitchyr/rlkit
-- https://github.com/ShangtongZhang/DeepRL
-
-Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition)
-- https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+- Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition) https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
 
 ### Reinforcement learning environments
@@ -22,25 +20,91 @@ Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2
 - https://github.com/openai/coinrun
 
 
-### Alpha Zero
+### Guided policy search
+
+Code:
+
+-  Guided policy search implementation: https://github.com/lakehanne/gps
+
+Publications:
+
+- (Apr 2015) **End-to-End Training of Deep Visuomotor Policies**
+  Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel
+  https://arxiv.org/abs/1504.00702
+
+
+### Alpha (Go)(Zero)
+
+Code: 
 
 - https://github.com/suragnair/alpha-zero-general
 
+Publications
 
-### Guided policy search
+- (Dec 2018) **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play**
+    David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis
+    https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/
+    
+    
+### Reinforcement learning - theoretical foundations
 
-- https://github.com/lakehanne/gps
+- (May 2018) **Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review**
+    Sergey Levine
+    https://arxiv.org/pdf/1805.00909.pdf
+    
+
+### Reinforcement learning - meta learning
+
+- (Nov 2016) **RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning**
+    Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel
+    https://arxiv.org/abs/1611.02779
+    
+- (Mar 2017) **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**
+    Chelsea Finn, Pieter Abbeel, Sergey Levine
+    https://arxiv.org/abs/1703.03400
+
+- (Jul 2017) **A Simple Neural Attentive Meta-Learner**
+    Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
+    https://arxiv.org/abs/1707.03141
+    
+- (Mar 2018) **Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning**
+    Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn
+    https://arxiv.org/abs/1803.11347
+    
+- (Jun 2018) **Unsupervised Meta-Learning for Reinforcement Learning**
+    Abhishek Gupta, Benjamin Eysenbach, Chelsea Finn, Sergey Levine
+    https://arxiv.org/abs/1806.04640
+  
+- (Jan 2019) **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions**
+    Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley
+    https://arxiv.org/abs/1901.01753
 
 
 ### Reinforcement learning - exploration
 
+Code:
+
 - https://github.com/openai/random-network-distillation
 - https://github.com/jcwleo/random-network-distillation-pytorch
+
+Publications:
+
+- (Jun 2016) **Unifying Count-Based Exploration and Intrinsic Motivation**
+    Marc G. Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, Remi Munos
+    https://arxiv.org/abs/1606.01868
+    
+- (Mar 2017) **Count-Based Exploration with Neural Density Models**
+    Georg Ostrovski, Marc G. Bellemare, Aaron van den Oord, Remi Munos
+    https://arxiv.org/abs/1703.01310
+
+- (Oct 2018) **Exploration by Random Network Distillation**
+    Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
+    https://arxiv.org/abs/1810.12894
 
 
 ### Deep Q-Learning
 
-Repositories:
+Code:
 - https://github.com/Kaixhin/Rainbow
 
 Publications:
@@ -59,6 +123,10 @@ Publications:
 - (Nov 2015) **Dueling Network Architectures for Deep Reinforcement Learning**
   Ziyu Wang and Nando de Freitas and Marc Lanctot
   http://arxiv.org/abs/1511.06581
+
+- (Jun 2017) **Noisy Networks for Exploration**
+  Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Ian Osband, Alex Graves, Vlad Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, Shane Legg
+  https://arxiv.org/abs/1706.10295
   
 - (Jun 2017) **Noisy Networks for Exploration**
   Meire Fortunato and
@@ -83,10 +151,10 @@ Publications:
   Matteo Hessel, Joseph Modayil, Hado van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, David Silver
   https://arxiv.org/abs/1710.02298
   
-  
+
 ### Policy gradient methods
 
-Repositories:
+Code:
 - https://github.com/Kaixhin/ACER
 - https://github.com/dchetelat/acer
 - https://github.com/ikostrikov/pytorch-a2c-ppo-acktr

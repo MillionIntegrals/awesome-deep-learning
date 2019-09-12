@@ -5,8 +5,10 @@ A continuous work in progress.
 
 This repository is split into subcategories:
 
+- [Awesome: Foundations](Awesome-Foundations.md)
 - [Awesome: Reinforcement learning](Awesome-Reinforcement-Learning.md)
 - [Awesome: Computer vision](Awesome-Computer-Vision.md)
 - [Awesome: Deep learning generic](Awesome-Deep-Learning-Generic.md)
 - [Awesome: Natural language processing](Awesome-Natural-Language-Processing.md)
+- [Awesome: Unsupervised Learning](Awesome-Unsupervised-Learning.md)
 
