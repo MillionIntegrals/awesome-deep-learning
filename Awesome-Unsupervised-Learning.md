@@ -27,42 +27,66 @@ Publications:
     
 ### Flow models
 
+Publications:
+
 - (Oct 2014) **NICE: Non-linear Independent Components Estimation**
     Laurent Dinh, David Krueger, Yoshua Bengio
     https://arxiv.org/abs/1410.8516
+    
+    
+- (May 2015) **Variational Inference with Normalizing Flows**
+    Danilo Jimenez Rezende, Shakir Mohamed
+    https://arxiv.org/abs/1505.05770
+    
     
 - (May 2016) **Density estimation using Real NVP**
     Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio
     https://arxiv.org/abs/1605.08803
     
+    
 - (Jun 2016) **Improving Variational Inference with Inverse Autoregressive Flow**
     Diederik P. Kingma, Tim Salimans, Rafal Jozefowicz, Xi Chen, Ilya Sutskever, Max Welling
     https://arxiv.org/abs/1606.04934
     
+    
+- (May 2017) **Masked Autoregressive Flow for Density Estimation**
+    George Papamakarios, Theo Pavlakou, Iain Murray
+    https://arxiv.org/abs/1705.07057
+    
+    
 - (Jul 2018) **Glow: Generative Flow with Invertible 1x1 Convolutions**
    Diederik P. Kingma, Prafulla Dhariwal
    https://arxiv.org/abs/1807.03039
+   
     
 - (Feb 2019) **Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design**
     Jonathan Ho, Xi Chen, Aravind Srinivas, Yan Duan, Pieter Abbeel
     https://arxiv.org/abs/1902.00275
     
     
-### PixelCNN
+### Autoregressive
 
 Publications:
+
+- (Feb 2015) **MADE: Masked Autoencoder for Distribution Estimation**
+    Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle
+    https://arxiv.org/abs/1502.03509
+    
 
 - (Jan 2016) **Pixel Recurrent Neural Networks**
     Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu
     https://arxiv.org/abs/1601.06759
     
+    
 - (Jun 2016) **Conditional Image Generation with PixelCNN Decoders**
     Aaron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu
     https://arxiv.org/abs/1606.05328
     
+    
 - (Jan 2017) **PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications**
     Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma
     https://arxiv.org/abs/1701.05517
+    
     
 - (Dec 2017) **PixelSNAIL: An Improved Autoregressive Generative Model**
     Xi Chen, Nikhil Mishra, Mostafa Rohaninejad, Pieter Abbeel
@@ -80,10 +104,28 @@ Publications:
 - (Jul 2008) **Extracting and Composing Robust Features with Denoising Autoencoders**
     Extracting and Composing Robust Features with Denoising Autoencoders
     http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
+    
+### Latent variable
 
 - (Dec 2013) **Auto-Encoding Variational Bayes**
 	Diederik P Kingma, Max Welling
     https://arxiv.org/abs/1312.6114
+    
+    
+- (Sep 2015) **Importance Weighted Autoencoders**
+    Yuri Burda, Roger Grosse, Ruslan Salakhutdinov
+    https://arxiv.org/abs/1509.00519
+    
+    
+- (Nov 2015) **Deep Kalman Filters**
+    Rahul G. Krishnan, Uri Shalit, David Sontag
+    https://arxiv.org/abs/1511.05121
+    
+    
+- (Nov 2016) **Variational Lossy Autoencoder**
+    Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel
+    https://arxiv.org/abs/1611.02731
+    
     
 - (Nov 2017) **Neural Discrete Representation Learning**
     Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu
